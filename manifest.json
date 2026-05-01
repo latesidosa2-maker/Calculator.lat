@@ -1,0 +1,15 @@
+{
+  "name": "Scientific Calculator",
+  "short_name": "Calc",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#0f3460",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2784/2784459.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
